@@ -29,7 +29,7 @@ Como Diretor de Tecnologia eu:
 
 Tendo a ser mais produtivo durante as manhãs. Meu período de trabalho costuma ser entre 8h00 e 19h00, com uma parada de 2 horas de almoço em que geralmente leio e faço uma descompressão para voltar ao trabalho.
 
-Se você receber um email ou mensagem de mim à noite, ou fora de seu horário de trabalho o padrão sempre é "ele me mandou isso para não esquecer ou está trabalhando em um outro horário" e você pode completamentte ignorar e responder apenas em seu período de trabalho. Eu nunca espero respostas imediatas a não ser (se acontecer) ttivermos alguma situação crítica de resposta imediata que esttá comprometendo nossa infra-estrutura, mas para isso mantemos um calendário rotativo _on call_ e mantemos uma forma estruturada e definida para isso.
+Se você receber um email ou mensagem de mim à noite, ou fora de seu horário de trabalho o padrão sempre é "ele me mandou isso para não esquecer ou está trabalhando em um outro horário" e você pode completamentte ignorar e responder apenas em seu período de trabalho. Eu nunca espero respostas imediatas a não ser (e se acontecer) tivermos alguma situação crítica de resposta imediata que esttá comprometendo nossa infra-estrutura, mas para isso mantemos um calendário rotativo _on call_ e mantemos uma forma estruturada e definida para isso.
 
 Eu recomendo que reservem blocos em suas agendas para períodos de trabalho que preferem não ter interrupção alguma. Isso dá visibilidade a todos e mantém sua produtividade, todos precisamos desse tempo reservado.
 
