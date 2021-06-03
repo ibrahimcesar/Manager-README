@@ -18,6 +18,7 @@ Este é o meu [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-
 
 Como Diretor de Tecnologia eu:
 
+- Sou responsável pela acessibilidade, disponibilidade e experiência das publicações e os sistemas que dão suporte aos modelos de negócio
 - O principal fator de otimização de entrega de software é [**Segurança psicológica**](https://ibrahimcesar.cloud/blog/seguranca-psicologica-em-tempos-de-pandemia/). Isto sempre vai estar na balança de qualquer decisão.
 - Sou responsável pela continuidade, melhoria, manutenção e acesso à todo o stack de tecnologias.
 - Permitir uma melhor eficiência e crescimento da empresa, sempre buscando atender as expectativas de negócio demonstrando claramente os _trade-offs_ relevantes.
