@@ -34,6 +34,10 @@ Se você receber um email ou mensagem de mim à noite, ou fora de seu horário d
 
 Eu recomendo que reservem blocos em suas agendas para períodos de trabalho que preferem não ter interrupção alguma. Isso dá visibilidade a todos e mantém sua produtividade, todos precisamos desse tempo reservado.
 
+## Personalidade
+
+Por favor, não confunda minha timidez com frieza ou desinteresse. Eu levo um tempo para me acostumar com novas pessoas e aprecio muito e me engajo a ajudar em qualquer momento que eu possa, mas eu dificilmente fico chamando as pessoas para falar ou checar como as coisas são. Por favor, me chame!
+
 ## Filosofia de trabalho
 
 Eu não costumo aderir a nenhuma Metodologia Ágil®. Mas eu sou extremente fã e aplico _princípios ágeis_ a tudo o que faço. O primeiro princípio do manifesto ágil é "Indivíduos e interações mais que processos e ferramentas". Eu jogo SCRUM pela janela a qualquer momento se for o melhor para as pessoas do time. Também acredito que SAFe® faz Waterfall parecer uma boa ideia.
@@ -56,6 +60,10 @@ O que eu espero da primeira semana de cada pessoa ao entrar no time: conhecer um
 
 Ao final dos primeiros novento dias espero que sinta-se parte do time no sentido em que está colaborando, tem segurança psicólogica e está crescendo e se desenvolvendo. E isto é um diálogo. Ao longo do tempo vamos conversando e ajustando.
 
-## Personalidade
+## Demitindo
 
-Por favor, não confunda minha timidez com frieza ou desinteresse. Eu levo um tempo para me acostumar com novas pessoas e aprecio muito e me engajo a ajudar em qualquer momento que eu possa, mas eu dificilmente fico chamando as pessoas para falar ou checar como as coisas são. Por favor, me chame!
+Palavra forte. Eu, honestamente, nunca gostaria de passar por essa situação. E acredite, é de quebrar o coração para ambos os lados. Eu nunca comemorei nenhuma demissão. Mas resolvi compartilhar o _contexto_ em que elas ocorrem. Basicamente: em um primeiro momento, a esfera do time e em um segundo, a esfera organizacional.
+
+- **Esfera do time:** Eu sigo a ["The No Asshole Rule"](https://en.wikipedia.org/wiki/The_No_Asshole_Rule). Que traduzo como a "Regra da Civilidade". Insultos, deixar alguém incomodado, interrupções frequentes de outras pessoas, _sarcasmo_ exacerbado, _humilhação_, discriminação por _qualquer motivo_: raça, filiação partidária, religiosa ou de linguagem de programação preferida. Ausências sem explicação – não está se sentindo bem? Mande um "Não trabalhei hoje". E tudo bem, sério. Não reconhecer ideias de outras pessoas e tratar do tema como novidade, se "apropriando". É uma lista resumida mas não exaustiva de atitudes quando regulares, frequentes, minam o time, de tão tóxicas podem levar as pessoas a evitarem reuniões e _quebrar_ o time - viramos apenas um grupo de pessoas trabalhando juntos. Nesse caso eu sempre escolho o time, não importa a proeficiência técnica da pessoa.
+- **Esfera organizacional:** Já tive no passado que realizar cortes por conta de reestruturação da empresa. Esta não tenho muito o que comentar. Qualquer decisão nesse contexto sempre deixa as pessoas desligadas da empresa na posição mais frágil, que eu nunca gostaria de ter que fazer, mas faz parte do trabalho.
+
