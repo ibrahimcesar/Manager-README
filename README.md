@@ -12,7 +12,7 @@ Você não precisa me seguir em nenhuma plataforma, apenas uma referência para 
 
 Este documento se aplica a mim e de nenhuma forma pode ser considerado como aplicável a qualquer pessoa de qualquer outro time ou do Nexo.
 
-Este é o meu [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/). Este documento é para você. Dediquei um tempo especial para escrevê-lo por que eu me importo com quem eu trabalho e gostaria que cada pessoa esteja o melhor contextualizada e equipada. Use este documento como uma introdução à forma como eu trabalho; meus frameworks menttais e operacionais e meu mapa mental. Estte documento será bem sucedido se nos ajudar a ter um melhor relacionamento de trabalho.
+Este é o meu [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/). Este documento é para você. Dediquei um tempo especial para escrevê-lo por que eu me importo com quem eu trabalho e gostaria que cada pessoa esteja o melhor contextualizada e equipada. Use este documento como uma introdução à forma como eu trabalho; meus frameworks mentais e operacionais e meu mapa mental. Estte documento será bem sucedido se nos ajudar a ter um melhor relacionamento de trabalho.
 
 ## Meu trabalho
 
@@ -47,6 +47,14 @@ Eu encorajo todos a sempre pesquisarem e trazerem novas formas de trabalho e tec
 A maioria de nosso trabalho é organizado ao redor do GitHub. Parte do mesmo princípio que tenho para testes, documentação e outros: o mais próximo do código possível, um "único repositório da verdade" – _single source of truth_.
 
 Para uma melhor descrição de todos rituais, ferramentas e processos, cheque o nosso guia no repositório.
+
+## Prefiro ser ágil _antes_ e _sobretudo_ do que Ágil®
+
+O próprio SCRUM® Guide define que "Scrum's roles, events, artifacts and rules are immutable and although implementatting only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirely". Vários outros frameworks ágeis possuem o mesmo tipo de declaração.
+
+Preferimos uma tática se algo funcionar, ótimo. Se não, continuamos a experimentar e a otimizar. Sermos ágeis antes de qualquer classificação Ágil®. Entendendo ágil, como um espectro:
+
+<img src="https://github.com/Nexo-Tec/guia/raw/main/assets/agil.png" alt="ágil" />
 
 ## 1:1s
 
