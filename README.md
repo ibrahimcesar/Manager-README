@@ -56,6 +56,8 @@ Preferimos uma tática se algo funcionar, ótimo. Se não, continuamos a experim
 
 <img src="https://github.com/Nexo-Tec/guia/raw/main/assets/agil.png" alt="ágil" />
 
+_Fonte da ilustração: [Sooner, Safer, Happier](https://amzn.to/3xk9OJa)_
+
 ## 1:1s
 
 Compartilhamos novidades, atualizações uns com os outros. E enttão avaliamos baseado nas necessidades e particularidades de cada pessoa em como se desenvolver, sempre mantendo um histórico de cada conversa para termos uma evolução de cada um.
