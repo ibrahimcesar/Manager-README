@@ -12,7 +12,7 @@ Você não precisa me seguir em nenhuma plataforma, apenas uma referência para 
 
 Este documento se aplica a mim e de nenhuma forma pode ser considerado como aplicável a qualquer pessoa de qualquer outro time ou do Nexo.
 
-Este é o meu [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/). Este documento é para você. Dediquei um tempo especial para escrevê-lo por que eu me importo com quem eu trabalho e gostaria que cada pessoa esteja o melhor contextualizada e equipada. Use este documento como uma introdução à forma como eu trabalho; meus frameworks mentais e operacionais e meu mapa mental. Estte documento será bem sucedido se nos ajudar a ter um melhor relacionamento de trabalho.
+Este é o meu [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/). Este documento é para você. Dediquei um tempo especial para escrevê-lo por que eu me importo com quem eu trabalho e gostaria que cada pessoa esteja o melhor contextualizada e equipada. Use este documento como uma introdução à forma como eu trabalho; meus frameworks mentais e operacionais e meu mapa mental. Este documento será bem sucedido se nos ajudar a ter um melhor relacionamento de trabalho.
 
 ## Meu trabalho
 
@@ -30,7 +30,7 @@ Como Diretor de Tecnologia eu:
 
 Tendo a ser mais produtivo durante as manhãs. Meu período de trabalho costuma ser entre 8h00 e 19h00, com uma parada de 2 horas de almoço em que geralmente leio e faço uma descompressão para voltar ao trabalho.
 
-Se você receber um email ou mensagem de mim à noite, ou fora de seu horário de trabalho o padrão sempre é "ele me mandou isso para não esquecer ou está trabalhando em um outro horário" e você pode completamentte ignorar e responder apenas em seu período de trabalho. Eu nunca espero respostas imediatas a não ser (e se acontecer) tivermos alguma situação crítica de resposta imediata que esttá comprometendo nossa infra-estrutura, mas para isso mantemos um calendário rotativo _on call_ e mantemos uma forma estruturada e definida para isso.
+Se você receber um email ou mensagem de mim à noite, ou fora de seu horário de trabalho o padrão sempre é "ele me mandou isso para não esquecer ou está trabalhando em um outro horário" e você pode completamente ignorar e responder apenas em seu período de trabalho. Eu nunca espero respostas imediatas a não ser (e se acontecer) tivermos alguma situação crítica de resposta imediata que está comprometendo nossa infra-estrutura, mas para isso mantemos um calendário rotativo _on call_ e mantemos uma forma estruturada e definida para isso.
 
 Eu recomendo que reservem blocos em suas agendas para períodos de trabalho que preferem não ter interrupção alguma. Isso dá visibilidade a todos e mantém sua produtividade, todos precisamos desse tempo reservado.
 
@@ -60,7 +60,7 @@ _Fonte da ilustração: [Sooner, Safer, Happier](https://amzn.to/3xk9OJa)_
 
 ## 1:1s
 
-Compartilhamos novidades, atualizações uns com os outros. E enttão avaliamos baseado nas necessidades e particularidades de cada pessoa em como se desenvolver, sempre mantendo um histórico de cada conversa para termos uma evolução de cada um.
+Compartilhamos novidades, atualizações uns com os outros. E então avaliamos baseado nas necessidades e particularidades de cada pessoa em como se desenvolver, sempre mantendo um histórico de cada conversa para termos uma evolução de cada um.
 
 ## Primeira semana
 
@@ -74,6 +74,7 @@ Ao final dos primeiros novento dias espero que sinta-se parte do time no sentido
 
 Palavra forte. Eu, honestamente, nunca gostaria de passar por essa situação. E acredite, é de quebrar o coração para ambos os lados. Eu nunca comemorei nenhuma demissão. Mas resolvi compartilhar o _contexto_ em que elas ocorrem. Basicamente: em um primeiro momento, a esfera do time e em um segundo, a esfera organizacional.
 
-- **Esfera do time:** Eu sigo a ["The No Asshole Rule"](https://en.wikipedia.org/wiki/The_No_Asshole_Rule). Que traduzo como a "Regra da Civilidade". Insultos, deixar alguém incomodado, interrupções frequentes de outras pessoas, _sarcasmo_ exacerbado, _humilhação_, discriminação por _qualquer motivo_: raça, filiação partidária, religiosa ou de linguagem de programação preferida. Ausências sem explicação – não está se sentindo bem? Mande um "Não trabalhei hoje". E tudo bem, sério. Não reconhecer ideias de outras pessoas e tratar do tema como novidade, se "apropriando". É uma lista resumida mas não exaustiva de atitudes quando regulares, frequentes, minam o time, de tão tóxicas podem levar as pessoas a evitarem reuniões e _quebrar_ o time - viramos apenas um grupo de pessoas trabalhando juntos. Nesse caso eu sempre escolho o time, não importa a proeficiência técnica da pessoa.
+- **Esfera do time:** Eu sigo a ["The No Asshole Rule"](h
+ps://en.wikipedia.org/wiki/The_No_Asshole_Rule). Que traduzo como a "Regra da Civilidade". Insultos, deixar alguém incomodado, interrupções frequentes de outras pessoas, _sarcasmo_ exacerbado, _humilhação_, discriminação por _qualquer motivo_: raça, filiação partidária, religiosa ou de linguagem de programação preferida. Ausências sem explicação – não está se sentindo bem? Mande um "Não trabalhei hoje". E tudo bem, sério. Não reconhecer ideias de outras pessoas e tratar do tema como novidade, se "apropriando". É uma lista resumida mas não exaustiva de atitudes quando regulares, frequentes, minam o time, de tão tóxicas podem levar as pessoas a evitarem reuniões e _quebrar_ o time - viramos apenas um grupo de pessoas trabalhando juntos. Nesse caso eu sempre escolho o time, não importa a proeficiência técnica da pessoa.
 - **Esfera organizacional:** Já tive no passado que realizar cortes por conta de reestruturação da empresa. Esta não tenho muito o que comentar. Qualquer decisão nesse contexto sempre deixa as pessoas desligadas da empresa na posição mais frágil, que eu nunca gostaria de ter que fazer, mas faz parte do trabalho.
 
