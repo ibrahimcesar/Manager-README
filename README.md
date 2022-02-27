@@ -1,6 +1,8 @@
 # Ibrahim Cesar
 
-As pessoas costumam me chamar apenas de "Ibra". Fique à vontade. Diretor de tecnologia no Nexo.
+> 2022: Não estou mais na condição de gestor, mas manterei aqui o repositório.
+
+As pessoas costumam me chamar apenas de "Ibra". Fique à vontade.
 
 [Profile no GitHub /ibrahimcesar](https://www.linkedin.com/in/ibrahimcesar/)  
 [Twitter @ibrahimcesar](https://twitter.com/ibrahimcesar)  
