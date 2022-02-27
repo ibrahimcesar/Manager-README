@@ -56,7 +56,7 @@ O próprio SCRUM® Guide define que "Scrum's roles, events, artifacts and rules 
 
 Preferimos uma tática se algo funcionar, ótimo. Se não, continuamos a experimentar e a otimizar. Sermos ágeis antes de qualquer classificação Ágil®. Entendendo ágil, como um espectro:
 
-<img src="https://github.com/Nexo-Tec/guia/raw/main/assets/agil.png" alt="ágil" />
+![Espectro Ágil](./agil.png)
 
 _Fonte da ilustração: [Sooner, Safer, Happier](https://amzn.to/3xk9OJa)_
 
