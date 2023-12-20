@@ -38,7 +38,7 @@ Eu recomendo que reservem blocos em suas agendas para períodos de trabalho que 
 
 ## Personalidade
 
-Por favor, não confunda minha timidez com frieza ou desinteresse. Eu levo um tempo para me acostumar com novas pessoas e aprecio muito e me engajo a ajudar em qualquer momento que eu possa, mas eu dificilmente fico chamando as pessoas para falar ou checar como as coisas são. Por favor, me chame!
+Por favor, não confunda minha timidez com frieza ou desinteresse. Eu levo um tempo para me acostumar com novas pessoas e aprecio muito e me engajo a ajudar em qualquer momento que eu possa, mas eu dificilmente fico chamando as pessoas para falar ou checar como as coisas estão a todo momento. Eu assumo que todas pessoas necessitem de autonomia e se desenvolvam assim. Não é seu perfil? Ok, me comunique e acompanho de perto. Por favor, me chame!
 
 ## Filosofia de trabalho
 
